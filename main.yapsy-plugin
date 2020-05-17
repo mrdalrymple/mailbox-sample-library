@@ -1,0 +1,9 @@
+[Core]
+Name = Plugin 1
+Module = main
+
+[Documentation]
+Author = n/a
+Version = 0.1.0
+Website = n/a
+Description = My first plugin
